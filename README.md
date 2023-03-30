@@ -13,6 +13,11 @@
 2. Open a terminal window and navigate to the cloned repository.
 3. Run the following command to start the program: `python game.py`
 
+## Blog
+
+Check out our project blog post for more information on the development process and our thoughts on the Hangman Game project:
+
+* [Hangman Game Using Python](https://www.codingninjas.com/codestudio/library/hangman-game-in-python?utm_source=github&utm_medium=organic&utm_campaign=blog-hangman-game-in-python)
 
 ## Code Structure
 

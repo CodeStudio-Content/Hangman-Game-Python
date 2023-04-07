@@ -3,6 +3,10 @@
 ![Screenshot from 2023-03-28 22-56-44](https://user-images.githubusercontent.com/77020164/228320042-7b54532c-3a50-461d-ad5b-f35df7e33c4a.png) | ![Screencast from 28-03-23 11_04_52 PM IST](https://user-images.githubusercontent.com/77020164/228322019-d1e6fa01-4270-4d43-b22c-7e99528a25ed.gif)
 |-|-|
 
+## Demo Video
+
+[Screencast from 07-04-23 10:04:18 PM IST.webm](https://user-images.githubusercontent.com/77020164/230644778-dfed4349-379e-4b0a-a166-d88325894573.webm)
+
 ## Requirements
 * Python 3.x
 * Tkinter library (which is usually included with Python)
